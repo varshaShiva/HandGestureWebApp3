@@ -1,0 +1,81 @@
+body
+{
+  color: white;
+  background: #ebb497;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  letter-spacing: 10px;
+  font-weight: bold;
+  font-size: 28px;
+  font-family: 'Raleway', sans-serif;
+  color:cornsilk;
+  border-radius: 10px;
+  background-color: #C0C0C0;
+  border-color:#C0C0C0 ;
+
+}
+.takePic{
+  letter-spacing: 3px;
+  font-weight: bold;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+  color:cornsilk;
+  border-radius: 10px;
+  background-color: #C0C0C0;
+  border-color:#C0C0C0 ;
+  width:200;
+  height: 40;
+}
+.takePic1{
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: 'Raleway', sans-serif;
+    color:cornsilk;
+    border-radius: 10px;
+    background-color: #C0C0C0;
+    border-color:#C0C0C0 ;
+    width:200;
+    height: 30;
+}
+.vl1 {
+    border-left: 4px solid rgb(255, 255, 255);
+    height: 50px;
+    position: absolute;
+    left: 50%;
+    margin-left: 25px;
+    top: 240;
+  }
+  .vl2 {
+    border-left: 4px solid rgb(255, 255, 255);
+    height: 50px;
+    position: absolute;
+    left: 50%;
+    margin-left: -60px;
+    top: 240;
+  }
+.emoji {
+    margin-right: 30px;
+  }
